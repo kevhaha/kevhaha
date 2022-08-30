@@ -1,4 +1,4 @@
-## Hello! 大家好! I'm Kevin Ha 🙋🏻‍♂️
+## Hello! I'm Kevin Ha 🙋🏻‍♂️
 
 I'm a Full Stack Software Engineer who enjoys eating 🍔, running marathons 🏃🏻‍♂️, and travelling 🌎!
 
